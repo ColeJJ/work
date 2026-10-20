@@ -4,6 +4,7 @@
 - [ ] AI-Engineering: Mental Model -> Wie entwickle ich? (Provider, Services, Security, Entities, Dao)
 - [ ] AI-Engineering: Teacher / Learning (https://www.skills.sh/)
 - [ ] AI-Engineering: Agentic Security
+- [ ] AI-Engineering: Subagent Optimizing
 - [ ] TEST: Docker Sandbox for Local Development (sbx)
 - [ ] TEST: Create a MCP Server (with Java) and run an agent (Claude Code Subscription) on it
 - [ ] Neovim: Java - Analyzing / - Profiling Ingegration via JFR 
